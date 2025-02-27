@@ -8,7 +8,7 @@ SUB_LINKS = [
     "https://example.com/sub2"
 ]
 
-OUTPUT_FILE = "merged_subscription.txt"
+OUTPUT_FILE = "https://raw.githubusercontent.com/1Shervin/Cypher-Collector/refs/heads/main/Sub.txt"
 
 def decode_v2ray_sub(subscription_data):
     """دیکد کردن ساب لینک و استخراج سرورها"""
