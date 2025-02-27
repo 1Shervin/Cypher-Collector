@@ -4,7 +4,7 @@ import requests
 
 # لیست ساب لینک‌ها که باید بررسی شوند
 SUB_LINKS = [
-    "https://example.com/sub1",
+    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/networks/grpc",
     "https://example.com/sub2"
 ]
 
